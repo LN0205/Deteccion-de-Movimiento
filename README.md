@@ -1,6 +1,6 @@
 # Deteccion-de-Movimiento
 Este algoritmo tiene como objetivo detectar la presencia de caída de masa en diferentes filtros para 4 cámaras.
-![Uploading vlcsnap-2024-11-07-21h36m05s385.png…]()
+![vlcsnap-2024-11-07-21h36m05s385](https://github.com/user-attachments/assets/d7d50541-2068-47e2-844d-2c7bafb1b49c)
 
 ![vlcsnap-2024-11-07-21h33m26s054](https://github.com/user-attachments/assets/dbef9ba4-822d-4181-98b5-2025269acd40)
 
